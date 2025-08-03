@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
@@ -8,12 +8,14 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@master
+      - name: Generate snake svg
+        uses: Platane/snk@v3
         with:
           github_user_name: nilimsankar123
           outputs: |
-            ./output/snake.svg
+            dist/snake.svg
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
@@ -21,4 +23,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generate snake contribution graph"
-          add: "output/snake.svg"
+          add: "dist/snake.svg"
