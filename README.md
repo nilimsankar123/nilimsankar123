@@ -80,12 +80,6 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
-
-<img src="https://raw.githubusercontent.com/nilimsankar123/nilimsankar123/dist/snake.svg" alt="Snake animation" />
-
----
-
 ### ☕ Support Me
 
 If you like my work, consider buying me a coffee!
