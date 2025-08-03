@@ -3,7 +3,7 @@
 
 <h2 align="left">Hi 👋! My name is Nilim and I'm a Developer and ML Enthusiast, from India 🇮🇳</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRwbHpvdnFibnVnOHpqMng3Mm9nOHp6Y3BlMTBxMW9taDZia2t1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" alt="anime coding" />
 
 ---
 
