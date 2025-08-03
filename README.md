@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nilim Sankar Bora</h1>
 <h3 align="center">A passionate Frontend and AI/ML developer from India</h3>
 
+<h2 align="left">Hi 👋! My name is Nilim and I'm a Developer and ML Enthusiast, from India 🇮🇳</h2>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+
+---
+
 - 🔭 I’m currently working on [Venom – AI Voice Assistant](https://github.com/nishanthazarika/Venom-AI-Assist)
 
 - 🌱 I’m currently learning **Different ML Models and Algorithms**
@@ -48,10 +54,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilimsankar123&show_icons=true&theme=radical" alt="Nilim's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilimsankar123&theme=radical" alt="Nilim's GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilimsankar123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilimsankar123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 ---
 
@@ -65,10 +71,18 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Nilim%20Sankar%20Bora-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilim123/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-BlackCypher__03-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/BlackCypher_03)
-[![CodeChef](https://img.shields.io/badge/Codechef-nilim__123-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/nilim_123)
-[![GitHub](https://img.shields.io/github/followers/nilimsankar123?label=GitHub&style=social)](https://github.com/nilimsankar123)
+<div align="left">
+  <a href="mailto:nilimsankar456@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://www.linkedin.com/in/nilim123/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://www.codechef.com/users/nilim_123"><img src="https://img.shields.io/badge/Codechef-nilim__123-orange?style=for-the-badge&logo=codechef" height="35" /></a>
+  <a href="https://codeforces.com/profile/BlackCypher_03"><img src="https://img.shields.io/badge/Codeforces-BlackCypher__03-blue?style=for-the-badge&logo=codeforces" height="35" /></a>
+</div>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<img src="https://raw.githubusercontent.com/nilimsankar123/nilimsankar123/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -76,5 +90,4 @@
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/)
-
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/)
