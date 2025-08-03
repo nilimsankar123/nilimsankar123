@@ -82,7 +82,7 @@
 
 ### 🐍 Snake Contribution Graph
 
-<img src="https://raw.githubusercontent.com/nilimsankar123/nilimsankar123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nilimsankar123/nilimsankar123/dist/snake.svg" alt="Snake animation" />
 
 ---
 
